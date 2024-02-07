@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-[![ArvinSSatria's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArvinSSatria&bg_color=ffffff)](https://github.com/ArvinSSatria)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinSSatria&layout=compact&bg_color=ffffff)](https://github.com/ArvinSSatria)
+[![ArvinSSatria's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArvinSSatria&bg_color=transparent)](https://github.com/ArvinSSatria)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinSSatria&layout=compact&bg_color=transparent)](https://github.com/ArvinSSatria)
 
 
 <!--
