@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Build Status](https://img.shields.io/travis/ArvinSSatria/repository-name.svg)](https://travis-ci.org/ArvinSSatria/repository-name)
+
 
 <!--
 **ArvinSSatria/ArvinSSatria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
