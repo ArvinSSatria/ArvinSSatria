@@ -1,10 +1,13 @@
 ### Hi there 👋
-
++# Github Stats
 [![ArvinSSatria's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArvinSSatria&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&style=flat-square)](https://github.com/ArvinSSatria)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinSSatria&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&style=flat-square)](https://github.com/ArvinSSatria)
 
 
+<div align="center">
+  <img src="URL_LOGO" width="50%" alt="GitHub Stats" />
+</div>
 
 
 <!--
