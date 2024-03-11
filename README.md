@@ -1,7 +1,7 @@
 ### Hello Cruel World! 👋
 My name is Arvin, and I'm currently a student of informatics at Ahmad Dahlan University.
 ## Github Stats
-[![ArvinSSatria's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArvinSSatria&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" style="max-width: 100%;"](https://github.com/ArvinSSatria)
+[![ArvinSSatria's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArvinSSatria&bg_color=17181C&title_color=00BFFF&text_color=ffffff&icon_color=ffffff&hide_border=true&style=flat-square)](https://github.com/ArvinSSatria)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinSSatria&layout=compact&bg_color=17181C&title_color=00BFFF&text_color=ffffff&hide_border=true&style=flat-square)](https://github.com/ArvinSSatria)
 
