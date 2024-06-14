@@ -1,4 +1,4 @@
-### Hello Cruel World! 👋
+### Hello World! 👋
 My name is Arvin, and I'm currently a student of informatics at Ahmad Dahlan University.
 ## Github Stats
 [![ArvinSSatria's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArvinSSatria&bg_color=17181C&title_color=00BFFF&text_color=ffffff&icon_color=ffffff&hide_border=true&style=flat-square)](https://github.com/ArvinSSatria)
