@@ -1,8 +1,3 @@
-<!-- Kamu bisa membuat banner keren di Canva atau Figma lalu taruh link gambarnya di sini -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArvinSSatria/ArvinSSatria/main/header.png" alt="GitHub Banner">
-</p>
-
 <h1 align="center">Hi there, I'm Arvin 👋</h1>
 <h3 align="center">An Informatics Student with a passion for building and learning new things.</h3>
 
@@ -12,9 +7,7 @@
 
 - 🌱 I’m currently deepening my knowledge in **Web Development** and exploring the world of **Data Science**.
 - 💻 I love working with technologies like **Python, JavaScript, and SQL**.
-- 👯 I’m looking to collaborate on **open-source projects**, especially those for social good.
-- 💬 Ask me about anything related to programming, I'm happy to help!
-- 📫 How to reach me: **[Tambahkan emailmu di sini: arvin.email@example.com]**
+- 📫 How to reach me: **arvinsultansatria@gmail.com**
 
 <br>
 
