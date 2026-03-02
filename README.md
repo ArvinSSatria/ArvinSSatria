@@ -1,52 +1,161 @@
-<h1 align="center">Hi there, I'm Arvin 👋</h1>
-<h3 align="center">An Informatics Student with a passion for building and learning new things.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arvinssatria&label=Profile%20views&color=0e75b6&style=flat" alt="arvinssatria" /> </p>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Arvin%20Sultan%20Satria&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20CS%20Student%20%7C%20UI/UX%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
-<br>
+<!-- Typing Animation -->
 
-- 🌱 I’m currently deepening my knowledge in **Web Development** and exploring the world of **Data Science**.
-- 💻 I love working with technologies like **Python, JavaScript, and SQL**.
-- 📫 How to reach me: **arvinsultansatria@gmail.com**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Computer+Science+Student+%F0%9F%8E%93;Always+Learning+New+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br>
+<!-- Badges -->
+<a href="https://www.linkedin.com/in/arvin-sultan-satria">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.threads.net/@arvinssatria">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.instagram.com/arvinssatria">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;
+<img src="https://img.shields.io/badge/🟢 Open To Work-00C853?style=for-the-badge" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- Ganti '#' dengan link profil media sosialmu -->
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arvin-sultan-satria/" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arvinssatria/" height="30" width="40" /></a>
-</p>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=ArvinSSatria&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS" />
 
-<br>
+</div>
 
-<h3 align="left">Languages and Tools I Use:</h3>
-<p align="left">
-  <!-- Baris 1 -->
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-  
-  <!-- Baris 2 -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-</p>
+---
 
-<br>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<h2 align="center">My GitHub Stats 📊</h2>
-<p align="center">
-  <!-- Statistik GitHub-mu, dengan tema warna yang sudah kamu pilih -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArvinSSatria&show_icons=true&bg_color=17181C&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&hide_border=true&style=flat-square" alt="ArvinSSatria's GitHub Stats" />
-  <br/><br/>
-  <!-- Top Languages Card -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinSSatria&layout=compact&bg_color=17181C&title_color=00BFFF&text_color=ffffff&hide_border=true&style=flat-square" alt="Top Languages" />
-  <br/><br/>
-  <!-- GitHub Streak -->
-  <img align="center" src="https://streak-stats.demolab.com/?user=ArvinSSatria&background=17181C&fire=00BFFF&ring=00BFFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00BFFF&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</p>
+```yaml
+name: Arvin Sultan Satria
+role: Software Developer & Computer Science Student
+university: Ahmad Dahlan University (UAD)
+focus:
+  - Full Stack Web Development
+  - UI/UX Design
+location: Indonesia 🇮🇩
+currently_learning: Always exploring new technologies!
+open_to: Collaboration, Freelance, and Job Opportunities
+```
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+- 🎓 Studying **Computer Science** at **Ahmad Dahlan University**
+- 💻 Passionate about building **Full Stack Web Applications**
+- 🎨 Enthusiastic about creating beautiful **UI/UX Designs**
+- 🌱 Currently diving deeper into **Next.js** & **TypeScript**
+- 🤝 Open to collaborating on **open source projects**
+- 💼 **Open to work** — Let's build something amazing together!
+- ⚡ Fun fact: I believe great code starts with great design!
+
+<br clear="both"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,php,cpp,python&theme=dark" />
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark" />
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,mongodb&theme=dark" />
+
+### 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ArvinSSatria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&ring_color=6c63ff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ArvinSSatria&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff&sideLabels=c9d1d9&dates=c9d1d9" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvinSSatria&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9" width="35%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArvinSSatria&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArvinSSatria&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff" width="95%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArvinSSatria/ArvinSSatria/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArvinSSatria/ArvinSSatria/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ArvinSSatria/ArvinSSatria/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+> 💡 **Tip:** To enable the snake animation, create a GitHub Actions workflow in your profile repo. [Learn how →](https://github.com/Platane/snk)
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Collaborate!
+
+<p>I'm always excited to connect with fellow developers, designers, and tech enthusiasts.<br/>Feel free to reach out — whether it's for a project, a question, or just to say hi! 👋</p>
+
+<a href="https://www.linkedin.com/in/arvin-sultan-satria">
+  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="mailto:arvinsultansatria@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=120&section=footer" width="100%" />
+
+</div>
