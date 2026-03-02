@@ -69,9 +69,7 @@
 
   <img src="https://img.shields.io/badge/Tools%20%26%20Platforms-1a1b27?style=flat-square" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-  <img src="https://www.google.com/s2/favicons?domain=laragon.org&sz=128" height="52" title="Laragon" />
-  <img src="https://www.google.com/s2/favicons?domain=antigravity.google&sz=128" height="52" title="Antigravity" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /
 
 </div>
 
