@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/TECH-STACK-a78bfa?style=for-the-badge&labelColor=555555" />
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -117,7 +117,7 @@
 
 <p>I'm always excited to connect with fellow developers, designers, and tech enthusiasts.<br/>Feel free to reach out — whether it's for a project, a question, or just to say hi! 👋</p>
 
-<a href="https://www.linkedin.com/in/arvin-sultan-satria"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:arvinsultansatria@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/arvin-sultan-satria"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;<a href="mailto:arvinsultansatria@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
