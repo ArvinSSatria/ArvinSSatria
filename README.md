@@ -8,16 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Computer+Science+Student+%F0%9F%8E%93;Always+Learning+New+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00C853?style=for-the-badge&logoColor=white" />
-<a href="https://www.linkedin.com/in/arvin-sultan-satria">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.threads.net/@arvinssatria">
-  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/arvinssatria">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00C853?style=for-the-badge&logoColor=white" /><a href="https://www.linkedin.com/in/arvin-sultan-satria"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.threads.net/@arvinssatria"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a><a href="https://www.instagram.com/arvinssatria"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=ArvinSSatria&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" />
@@ -128,12 +120,7 @@
 
 <p>I'm always excited to connect with fellow developers, designers, and tech enthusiasts.<br/>Feel free to reach out — whether it's for a project, a question, or just to say hi! 👋</p>
 
-<a href="https://www.linkedin.com/in/arvin-sultan-satria">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="mailto:arvinsultansatria@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/arvin-sultan-satria"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:arvinsultansatria@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
