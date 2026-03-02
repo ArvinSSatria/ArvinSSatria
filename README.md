@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Arvin%20Sultan%20Satria&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Arvin%20Sultan%20Satria&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20CS%20Student%20%7C%20UI/UX%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- Typing Animation -->
 
