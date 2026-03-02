@@ -113,7 +113,7 @@
 <!-- CONNECT -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/LET'S-CONNECT-a78bfa?style=for-the-badge&labelColor=555555" />
+<img src="https://img.shields.io/badge/LET'S-CONNECT-a78bfa?style=for-the-badge&labelColor=555555" /><br/>
 
 <br/>
 
