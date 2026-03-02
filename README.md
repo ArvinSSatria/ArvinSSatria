@@ -50,25 +50,22 @@
 <div align="center">
 
   <img src="https://img.shields.io/badge/Languages-1a1b27?style=flat-square" />
-  <br/>
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=ts,js,php,cpp,python&theme=dark" />
 
-<br/><br/>
-
+<br/>
   <img src="https://img.shields.io/badge/Frontend-1a1b27?style=flat-square" />
-  <br/>
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark" />
 
-<br/><br/>
-
+<br/>
   <img src="https://img.shields.io/badge/Backend%20%26%20Database-1a1b27?style=flat-square" />
-  <br/>
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,mongodb&theme=dark" />
 
-<br/><br/>
-
+<br/>
   <img src="https://img.shields.io/badge/Tools%20%26%20Platforms-1a1b27?style=flat-square" />
-  <br/>
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
 </div>
