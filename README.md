@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/TECH-STACK-a78bfa?style=for-the-badge&labelColor=555555" />
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
