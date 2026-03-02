@@ -121,9 +121,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SUPPORT-ME-ffca28?style=flat&labelColor=555555" />
-<br/>
-<a href="https://saweria.co/arvinssatria"><img src="https://img.shields.io/badge/Saweria-faad14?style=for-the-badge&logo=coffee&logoColor=white" /></a>
+<a href="https://saweria.co/arvinssatria"><img src="https://img.shields.io/badge/Support_Me-Saweria-ff813f?style=for-the-badge&logo=heart&logoColor=white" /></a>
 
 <br/><br/>
 
