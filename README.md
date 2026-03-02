@@ -84,9 +84,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArvinSSatria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="95%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArvinSSatria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="70%" />
 <br/>
-<img src="https://streak-stats.demolab.com?user=ArvinSSatria&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" width="95%" />
+<img src="https://streak-stats.demolab.com?user=ArvinSSatria&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" width="70%" />
 
 
 
