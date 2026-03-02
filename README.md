@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/TECH-STACK-a78bfa?style=for-the-badge&labelColor=555555" />
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -69,7 +69,7 @@
 
   <img src="https://img.shields.io/badge/Tools%20%26%20Platforms-1a1b27?style=flat-square" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
 </div>
 
