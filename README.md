@@ -108,13 +108,14 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArvinSSatria&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa" width="95%" />
 
 </div>
+</br>
 
 <!-- CONNECT -->
 <div align="center">
 
 <img src="https://img.shields.io/badge/LET'S-CONNECT-a78bfa?style=for-the-badge&labelColor=555555" />
 
-<br/><br/>
+<br/>
 
 <p>I'm always excited to connect with fellow developers, designers, and tech enthusiasts.<br/>Feel free to reach out — whether it's for a project, a question, or just to say hi! 👋</p>
 
