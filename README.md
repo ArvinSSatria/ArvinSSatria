@@ -28,7 +28,7 @@
 
 <!-- PROFILE SUMMARY -->
 <div align="center">
-  <img src="https://img.shields.io/badge/PROFILE-SUMMARY-a78bfa?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/PROFILE-SUMMARY-a78bfa?style=for-the-badge&labelColor=555555" />
 </div>
 
 <br/>
@@ -47,32 +47,32 @@
 
 <!-- TECH STACK -->
 <div align="center">
-  <img src="https://img.shields.io/badge/TECH-STACK-a78bfa?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/TECH-STACK-a78bfa?style=for-the-badge&labelColor=555555" />
 </div>
 
 <br/>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Languages-1a1b27?style=flat-square&logo=data:image/svg+xml;base64," />
+  <img src="https://img.shields.io/badge/Languages-555555?style=flat-square&logo=data:image/svg+xml;base64," />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=ts,js,php,cpp,python&theme=dark" />
 
 <br/><br/>
 
-  <img src="https://img.shields.io/badge/Frontend-1a1b27?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend-555555?style=flat-square" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark" />
 
 <br/><br/>
 
-  <img src="https://img.shields.io/badge/Backend%20%26%20Database-1a1b27?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend%20%26%20Database-555555?style=flat-square" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,mongodb&theme=dark" />
 
 <br/><br/>
 
-  <img src="https://img.shields.io/badge/Tools%20%26%20Platforms-1a1b27?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools%20%26%20Platforms-555555?style=flat-square" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
   &nbsp;
@@ -84,7 +84,7 @@
 
 <!-- GITHUB STATS -->
 <div align="center">
-  <img src="https://img.shields.io/badge/GITHUB-STATS-a78bfa?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/GITHUB-STATS-a78bfa?style=for-the-badge&labelColor=555555" />
 </div>
 
 <br/>
@@ -104,7 +104,7 @@
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://img.shields.io/badge/CONTRIBUTION-GRAPH-a78bfa?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/CONTRIBUTION-GRAPH-a78bfa?style=for-the-badge&labelColor=555555" />
 </div>
 
 <br/>
@@ -119,7 +119,7 @@
 
 <!-- RANDOM DEV QUOTE -->
 <div align="center">
-  <img src="https://img.shields.io/badge/RANDOM-DEV%20QUOTE-a78bfa?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/RANDOM-DEV%20QUOTE-a78bfa?style=for-the-badge&labelColor=555555" />
 </div>
 
 <br/>
@@ -135,7 +135,7 @@
 <!-- CONNECT -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/LET'S-CONNECT-a78bfa?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/LET'S-CONNECT-a78bfa?style=for-the-badge&labelColor=555555" />
 
 <br/><br/>
 
