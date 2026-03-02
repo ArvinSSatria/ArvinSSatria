@@ -39,7 +39,10 @@
 
 <div align="center">
 
-`Focus` **Full Stack Development** &nbsp;&nbsp; `Focus` **UI/UX Design** &nbsp;&nbsp; `Focus` **Clean Architecture** &nbsp;&nbsp; `Focus` **Modern Web Apps**
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-667eea?style=for-the-badge&labelColor=555555" />
+<img src="https://img.shields.io/badge/Focus-UI%2FUX%20Design-f093fb?style=for-the-badge&labelColor=555555" />
+<img src="https://img.shields.io/badge/Focus-Clean%20Architecture-43e97b?style=for-the-badge&labelColor=555555" />
+<img src="https://img.shields.io/badge/Focus-Modern%20Web%20Apps-f6d365?style=for-the-badge&labelColor=555555" />
 
 </div>
 
@@ -54,29 +57,30 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Languages-555555?style=flat-square&logo=data:image/svg+xml;base64," />
+  <img src="https://img.shields.io/badge/Languages-1a1b27?style=flat-square" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=ts,js,php,cpp,python&theme=dark" />
 
 <br/><br/>
 
-  <img src="https://img.shields.io/badge/Frontend-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend-1a1b27?style=flat-square" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark" />
 
 <br/><br/>
 
-  <img src="https://img.shields.io/badge/Backend%20%26%20Database-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend%20%26%20Database-1a1b27?style=flat-square" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,mongodb&theme=dark" />
 
 <br/><br/>
 
-  <img src="https://img.shields.io/badge/Tools%20%26%20Platforms-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools%20%26%20Platforms-1a1b27?style=flat-square" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" height="48" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Antigravity-8B5CF6?style=flat-square&logo=google&logoColor=white" height="48" />
 
 </div>
 
@@ -115,35 +119,18 @@
 
 </div>
 
-<br/>
-
-<!-- RANDOM DEV QUOTE -->
-<div align="center">
-  <img src="https://img.shields.io/badge/RANDOM-DEV%20QUOTE-a78bfa?style=for-the-badge&labelColor=555555" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
-<br/>
-
 <!-- CONNECT -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/LINKEDIN-a78bfa?style=for-the-badge&labelColor=555555" />
+<img src="https://img.shields.io/badge/LET'S-CONNECT-a78bfa?style=for-the-badge&labelColor=555555" />
 
 <br/><br/>
 
 <p>I'm always excited to connect with fellow developers, designers, and tech enthusiasts.<br/>Feel free to reach out — whether it's for a project, a question, or just to say hi! 👋</p>
 
 <a href="https://www.linkedin.com/in/arvin-sultan-satria">
-  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
 <a href="mailto:arvinsultansatria@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
