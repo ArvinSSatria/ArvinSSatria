@@ -9,10 +9,10 @@
 
 <!-- Social Badges -->
 
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00C853?style=for-the-badge&logoColor=white" /><a href="https://www.linkedin.com/in/arvin-sultan-satria"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.threads.net/@arvinssatria"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a><a href="https://www.instagram.com/arvinssatria"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00C853?style=for-the-badge&logoColor=white" />&nbsp;&nbsp;<a href="https://www.linkedin.com/in/arvin-sultan-satria"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://www.threads.net/@arvinssatria"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/arvinssatria"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=ArvinSSatria&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=ArvinSSatria&style=flat-square&color=a78bfa&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -31,10 +31,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-667eea?style=for-the-badge&labelColor=555555" />
-<img src="https://img.shields.io/badge/Focus-UI%2FUX%20Design-f093fb?style=for-the-badge&labelColor=555555" />
-<img src="https://img.shields.io/badge/Focus-Clean%20Architecture-43e97b?style=for-the-badge&labelColor=555555" />
-<img src="https://img.shields.io/badge/Focus-Modern%20Web%20Apps-f6d365?style=for-the-badge&labelColor=555555" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-667eea?style=flat&label=Focus&labelColor=555555" />
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-f093fb?style=flat&label=Focus&labelColor=555555" />
+<img src="https://img.shields.io/badge/Clean%20Architecture-43e97b?style=flat&label=Focus&labelColor=555555" />
+<img src="https://img.shields.io/badge/Modern%20Web%20Apps-f6d365?style=flat&label=Focus&labelColor=555555" />
 
 </div>
 
@@ -70,9 +70,8 @@
   <img src="https://img.shields.io/badge/Tools%20%26%20Platforms-1a1b27?style=flat-square" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/Antigravity-8B5CF6?style=flat-square&logo=google&logoColor=white" height="48" />
+  <img src="https://www.google.com/s2/favicons?domain=laragon.org&sz=128" height="52" title="Laragon" />
+  <img src="https://www.google.com/s2/favicons?domain=antigravity.google&sz=128" height="52" title="Antigravity" />
 
 </div>
 
